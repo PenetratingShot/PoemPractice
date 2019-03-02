@@ -1,0 +1,10 @@
+Package: com.404meemr.poempractice
+Name: PoemPractice
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 404meemr
+Author: 404meemr
+Section: Tweaks
+Version: 0.0.1-4+debug
+Installed-Size: 104
